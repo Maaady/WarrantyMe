@@ -1,11 +1,17 @@
 # WarrantyMe - Digital Warranty Management System
 
-<p align="center">
-  <img src="public/logo.png" alt="WarrantyMe Logo" width="200"/>
-</p>
+<div align="center">
+  <img src="public/images/warranty-me-logo.png" alt="WarrantyMe Logo" width="200"/>
+  <br />
+  <br />
+  <a href="https://warranty-me.vercel.app">
+    <img src="https://img.shields.io/badge/Vercel-Deployed-black" alt="Vercel" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
+  </a>
+</div>
 
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black)](https://warranty-me.vercel.app)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Overview
 
