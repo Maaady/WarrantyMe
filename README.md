@@ -68,25 +68,25 @@ WarrantyMe is a comprehensive digital warranty management system that helps user
 - Access the application at  : http://localhost:3000
   
 # Project Structure
-warranty-me/
-├── src/
-│   ├── components/
-│   │   ├── Login.js
-│   │   ├── Navigation.js
-│   │   ├── WarrantyEditor.js
-│   │   └── WarrantyList.js
-│   ├── services/
-│   │   └── driveService.js
-│   ├── utils/
-│   │   └── firebase.js
-│   └── App.js
-├── backend/
-│   ├── server.js
-│   └── package.json
-├── public/
-├── package.json
-├── vercel.json
-└── README.md
+- warranty-me/
+- ├── src/
+- │   ├── components/
+- │   │   ├── Login.js
+- │   │   ├── Navigation.js
+- │   │   ├── WarrantyEditor.js
+- │   │   └── WarrantyList.js
+- │   ├── services/
+- │   │   └── driveService.js
+- │   ├── utils/
+- │   │   └── firebase.js
+- │   └── App.js
+- ├── backend/
+- │   ├── server.js
+- │   └── package.json
+- ├── public/
+- ├── package.json
+- ├── vercel.json
+- └── README.md
 
 ## Security
 - Google OAuth 2.0 Authentication
