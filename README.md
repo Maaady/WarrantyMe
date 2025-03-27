@@ -1,7 +1,17 @@
 # WarrantyMe - Digital Warranty Management System
 
 <div align="center">
-  <img src="public/images/warranty-me-logo.png" alt="WarrantyMe Logo" width="200"/>
+
+```ascii
+ __          __                      _         __  __      
+ \ \        / /                     | |       |  \/  |     
+  \ \  /\  / /_ _ _ __ _ __ __ _ _ | |_ _   _| \  / | ___ 
+   \ \/  \/ / _` | '__| '__/ _` | '| __| | | | |\/| |/ _ \
+    \  /\  / (_| | |  | | | (_| | || |_| |_| | |  | |  __/
+     \/  \/ \__,_|_|  |_|  \__,_|_| \__|\__, |_|  |_|\___|
+                                          __/ |             
+                                         |___/           
+````
   <br />
   <br />
   <a href="https://warranty-me.vercel.app">
